@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "986335402399",
+    "project_id": "fir-getdatafromfirestore",
+    "storage_bucket": "fir-getdatafromfirestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986335402399:android:e103db2328104c035e05aa",
+        "android_client_info": {
+          "package_name": "com.example.firebasegetdatafromfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986335402399-8vqi38lgnkldaskh1aqnui497b8kd0k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtmOMGuKud-UQ3NiA66XYbW-TvFKVL9k0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986335402399-8vqi38lgnkldaskh1aqnui497b8kd0k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
